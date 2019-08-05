@@ -1,0 +1,16 @@
+{
+  "name": "node-json-parser",
+  "version": "3.4.3",
+  "main": "./src/parser.js",
+  "description": "Json parser",
+  "author": "Loren Est <loren.est@yandex.com>",
+  "directories": {
+    "lib": "./src"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "dependencies": {
+  }
+}
